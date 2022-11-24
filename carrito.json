@@ -1,0 +1,67 @@
+[
+  {
+    "0": {
+      "id": 2,
+      "timestamp": 1669247247165,
+      "nombre": "tomate",
+      "descripcion": "verdura",
+      "codigo": 463112,
+      "foto": "https://i.ibb.co/W3fLgxV/tomato-facts.jpg",
+      "precio": 250,
+      "stock": 30
+    },
+    "id": 1
+  },
+  {
+    "0": {
+      "id": 1,
+      "timestamp": 1669247157283,
+      "nombre": "Papa",
+      "descripcion": "verdura",
+      "codigo": 45612,
+      "foto": "https://i.ibb.co/LzSXhvs/5ff3e6a0b703f-potatoes-food-supermarket-agriculture-JG7-QGNY.jpg",
+      "precio": 200,
+      "stock": 20
+    },
+    "id": 2
+  },
+  {
+    "0": {
+      "id": 4,
+      "timestamp": 1669247398074,
+      "nombre": "pan",
+      "descripcion": "panaderia",
+      "codigo": 33542,
+      "foto": "https://i.ibb.co/PMjJfCN/maxresdefault.jpg",
+      "precio": 300,
+      "stock": 30
+    },
+    "id": 3
+  },
+  {
+    "0": {
+      "id": 3,
+      "timestamp": 1669247314246,
+      "nombre": "lechuga",
+      "descripcion": "verdura",
+      "codigo": 32112,
+      "foto": "https://i.ibb.co/j6Z60Lw/romaine-large.jpg",
+      "precio": 150,
+      "stock": 30
+    },
+    "id": 4
+  },
+  {
+    "0": {
+      "id": 5,
+      "timestamp": 1669247461833,
+      "nombre": "banana",
+      "descripcion": "fruta",
+      "codigo": 2542,
+      "foto": "https://i.ibb.co/4Pwx7wD/Cavendish-Banana-DS.jpg",
+      "precio": 250,
+      "stock": 30
+    },
+    "id": 5
+  }
+]
